@@ -53,3 +53,6 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
    - Random Forest
    - Naive Bayes
 3. Deep Learning Model (Artificial Neural Network - ANN)
+
+## Software 
+The study of the predictive categorization model has been conducted using Python and R. The codes can be found in the folder \bank+marketing\bank.
